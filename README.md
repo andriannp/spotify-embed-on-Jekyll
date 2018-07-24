@@ -61,5 +61,5 @@ thanks.
 
 [https://github.com/nathancy/jekyll-embed-video](https://github.com/nathancy/jekyll-embed-video)
 
-[https://github.com/andriannp/spotify-playlist-on-Jekyll](https://github.com/andriannp/spotify-playlist-on-Jekyll)
+[https://github.com/andriannp/spotify-embed-on-Jekyll](https://github.com/andriannp/spotify-embed-on-Jekyll)
 
