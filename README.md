@@ -1,6 +1,8 @@
 ## Embed Spotify Playlist
 
-# Demo: [https://andriannurprabawa.com/2018/07/24/Spotify-Playlist/](https://andriannurprabawa.com/2018/07/24/Spotify-Playlist/)
+### Demo:
+
+[https://andriannurprabawa.com/2018/07/24/Spotify-Playlist/](https://andriannurprabawa.com/2018/07/24/Spotify-Playlist/)
 
 Open folder `_includes` and create page `spotifyplaylist.html` with this code:
 
