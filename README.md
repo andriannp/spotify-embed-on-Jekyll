@@ -103,6 +103,10 @@ create `spotifyprofile.html` in `_includes` folder with this code:
  ```
  put this code wherever you want on your .md file
  
+ `{% include spotifyplaylist.html id=page.spotifyplaylist %}`
+ 
+ also put this code:
+ 
 ```
 ---
 layout: post
