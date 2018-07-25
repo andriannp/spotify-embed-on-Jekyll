@@ -101,9 +101,10 @@ create `spotifyprofile.html` in `_includes` folder with this code:
         allowtransparency="true">
  </iframe>
  ```
- put this code wherever you want on your .md file
+
+put this code wherever you want on your .md file
  
- ``
+ ```
  {% include spotifyplaylist.html id=page.spotifyplaylist %}
  ```
  
