@@ -58,7 +58,7 @@ spotifyplaylist: spotify/playlist/37i9dQZF1DXdLfF6pfs0Bt
 
 add CSS for responsive layout: 
 
-open folder `_sass` and create file `_spotify embed.scss` with this code:
+open folder `_sass` and create file `_spotify-embed.scss` with this code:
 
 ```
 .embed-spotify {
