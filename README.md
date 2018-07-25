@@ -103,9 +103,11 @@ create `spotifyprofile.html` in `_includes` folder with this code:
  ```
  put this code wherever you want on your .md file
  
- `{% include spotifyplaylist.html id=page.spotifyplaylist %}`
+ ``
+ {% include spotifyplaylist.html id=page.spotifyplaylist %}
+ ```
  
- also put this code:
+also put your username id:
  
 ```
 ---
@@ -128,7 +130,7 @@ your username is `6sFIWsNpZYqfjUpaCgueju`
 in this case you wont need to set the CSS.
 
 
-thanks.
+### thanks.
 
 
 **Reference:**
