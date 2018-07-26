@@ -4,7 +4,7 @@ this repo contain codes for embed Spotify track, album, playlist and profile.
 
 ### Demo:
 
-[https://andriannurprabawa.com/2018/07/24/Spotify-Embed/](https://andriannurprabawa.com/2018/07/24/Spotify-Embed/)
+[https://andriannurprabawa.com/Spotify-Embed/](https://andriannurprabawa.com/Spotify-Embed/)
 
 ## Spotify Playlist
 
